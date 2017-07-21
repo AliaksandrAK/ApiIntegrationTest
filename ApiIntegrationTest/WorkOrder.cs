@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 //it generated using http://json2csharp.com/#
 namespace ApiIntegrationTest
 {
+    //Test merging
     internal class WorkOrder
     {
     }
