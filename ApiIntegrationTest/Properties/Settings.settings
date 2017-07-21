@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ApiIntegrationTest.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ServerNameLogin" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://st1login.servicechannel.com/oauth/token</Value>
+    </Setting>
+    <Setting Name="ServerNameApi" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">st1.servicechannel.com</Value>
+    </Setting>
+    <Setting Name="ClientId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">sc_internal_api_documentation</Value>
+    </Setting>
+    <Setting Name="ClientSecret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">BAD4554B-AAE5-404B-8277-7F3D921B3EFC</Value>
+    </Setting>
+    <Setting Name="UserName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">demo</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">d3m0</Value>
+    </Setting>
+    <Setting Name="AuthBasic" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c2NfaW50ZXJuYWxfYXBpX2RvY3VtZW50YXRpb246QkFENDU1NEItQUFFNS00MDRCLTgyNzctN0YzRDkyMUIzRUZD</Value>
+    </Setting>
+    <Setting Name="XML" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0"?&gt;&lt;DATA2SC PIN="40487" ID="942842206"&gt;&lt;CALL DATETIME="2016/12/30 11:03:39" OPERATOR="BulkPMDispatcher" CALLER="PM XML Interface" CATEGORY="Maintenance" SUB="2000001305" LOC="2310" TRADE="FLOOR MAINTENANCE-WOOD" WO_NUM="12942866" PO_NUM="12942866" STATUS="OPEN" PRIORITY="P7 (Routine &amp;amp; PM)" CURRENCY="USD"&gt;&lt;PROBLEM&gt;Test&lt;/PROBLEM&gt;&lt;/CALL&gt;&lt;/DATA2SC&gt;</Value>
+    </Setting>
+    <Setting Name="XML_code" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">%3C%3Fxml%20version%3D%221.0%22%3F%3E%3CDATA2SC%20PIN%3D%2240487%22%20ID%3D%22942842206%22%3E%3CCALL%20DATETIME%3D%222016/12/30%2011%3A03%3A39%22%20OPERATOR%3D%22BulkPMDispatcher%22%20CALLER%3D%22PM%20XML%20Interface%22%20CATEGORY%3D%22Maintenance%22%20SUB%3D%222000001305%22%20LOC%3D%222310%22%20TRADE%3D%22FLOOR%20MAINTENANCE-WOOD%22%20WO_NUM%3D%2212942867%22%20PO_NUM%3D%2212942867%22%20STATUS%3D%22OPEN%22%20PRIORITY%3D%22P7%20%28Routine%20%26amp%3B%20PM%29%22%20CURRENCY%3D%22USD%22%3E%3CPROBLEM%3ETest%3C/PROBLEM%3E%3C/CALL%3E%3C/DATA2SC%3E</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
